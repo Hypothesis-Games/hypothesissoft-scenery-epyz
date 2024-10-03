@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: EDVK_StreetLight-->
+	<SceneryObject groupIndex="1" lat="22.19097962024630" lon="112.30548137905282" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FE030C8B-BA5B-4C4B-4B59-1CF8E6E532DA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: EDVK_StreetLight-->
+	<SceneryObject groupIndex="10" lat="22.19103260328211" lon="112.30579657241483" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FE030C8B-BA5B-4C4B-4B59-1CF8E6E532DA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: EDVK_StreetLight-->
+	<SceneryObject groupIndex="3" lat="22.19108656120568" lon="112.30541919815131" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FE030C8B-BA5B-4C4B-4B59-1CF8E6E532DA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: EDVK_StreetLight-->
+	<SceneryObject groupIndex="9" lat="22.19114253279944" lon="112.30573799871381" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FE030C8B-BA5B-4C4B-4B59-1CF8E6E532DA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: EDVK_StreetLight-->
+	<SceneryObject groupIndex="5" lat="22.19128232180422" lon="112.30531255033620" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FE030C8B-BA5B-4C4B-4B59-1CF8E6E532DA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: EDVK_StreetLight-->
+	<SceneryObject groupIndex="7" lat="22.19136540253878" lon="112.30559622662544" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{FE030C8B-BA5B-4C4B-4B59-1CF8E6E532DA}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Flag_USA_01-->
+	<SceneryObject lat="22.19139734946988" lon="112.30622975853439" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{971B926B-3573-4A9C-8C83-2BB74C96743E}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Floor_Lamp-->
+	<SceneryObject groupIndex="4" lat="22.19094531213016" lon="112.30553417704265" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C460CEAB-E57B-482F-9A09-84D947C7A88A}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Floor_Lamp-->
+	<SceneryObject groupIndex="8" lat="22.19101410167334" lon="112.30581026513688" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C460CEAB-E57B-482F-9A09-84D947C7A88A}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Floor_Lamp-->
+	<SceneryObject groupIndex="2" lat="22.19121138491148" lon="112.30535964317558" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C460CEAB-E57B-482F-9A09-84D947C7A88A}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Floor_Lamp-->
+	<SceneryObject groupIndex="6" lat="22.19131673482264" lon="112.30561046359738" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{C460CEAB-E57B-482F-9A09-84D947C7A88A}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="11" lat="22.19079810601391" lon="112.30556415794682" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="39" lat="22.19086506582063" lon="112.30610943101114" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="38" lat="22.19088573689889" lon="112.30617811387532" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="37" lat="22.19091065953112" lon="112.30623470209143" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="12" lat="22.19092302942282" lon="112.30547975030652" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="36" lat="22.19093578768864" lon="112.30630573704639" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="17" lat="22.19094701519305" lon="112.30584369596905" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="35" lat="22.19096112519326" lon="112.30636563386419" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="34" lat="22.19097751750326" lon="112.30642505155610" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="22" lat="22.19099011716690" lon="112.30465253775165" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="33" lat="22.19099957419611" lon="112.30650086292255" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="13" lat="22.19102087502857" lon="112.30542298130912" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="32" lat="22.19103361370917" lon="112.30657649000914" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="21" lat="22.19105654418109" lon="112.30459866503176" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="18" lat="22.19108472105360" lon="112.30578764712247" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="43" lat="22.19111359327987" lon="112.30640333991160" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="20" lat="22.19112132711559" lon="112.30455414174176" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="42" lat="22.19115133440319" lon="112.30638630572079" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="41" lat="22.19119942287877" lon="112.30636691199120" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="14" lat="22.19120136791705" lon="112.30530869123854" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="40" lat="22.19125809352983" lon="112.30633526985881" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="19" lat="22.19128260276925" lon="112.30585509661695" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="44" lat="22.19235787753720" lon="112.30567624244625" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject groupIndex="45" lat="22.19241701641248" lon="112.30580510882358" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject displayName="GAYA_PineTree_01 (copy 1)" groupIndex="47" lat="22.19241701641248" lon="112.30580510882358" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject displayName="GAYA_PineTree_01 (copy)" groupIndex="48" lat="22.19241701641248" lon="112.30580510882358" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_01-->
+	<SceneryObject displayName="GAYA_PineTree_01 (copy 2)" groupIndex="46" lat="22.19241701645662" lon="112.30580510883884" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{566E46C4-35A5-4490-936D-DD56BE7785FD}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_02-->
+	<SceneryObject groupIndex="16" lat="22.19142482866209" lon="112.30528701515446" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8BCD92A6-317E-402B-B2CF-6B036D32F9E3}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_02-->
+	<SceneryObject groupIndex="15" lat="22.19151679856807" lon="112.30541633836967" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{8BCD92A6-317E-402B-B2CF-6B036D32F9E3}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_03-->
+	<SceneryObject groupIndex="29" lat="22.19071662595178" lon="112.30482442411272" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D6B60B3F-19DD-4A13-8A27-E696C8A54312}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_03-->
+	<SceneryObject groupIndex="28" lat="22.19074014835584" lon="112.30481552070842" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D6B60B3F-19DD-4A13-8A27-E696C8A54312}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_03-->
+	<SceneryObject groupIndex="27" lat="22.19077481610325" lon="112.30479253994871" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D6B60B3F-19DD-4A13-8A27-E696C8A54312}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_03-->
+	<SceneryObject groupIndex="26" lat="22.19080491076138" lon="112.30477323756347" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D6B60B3F-19DD-4A13-8A27-E696C8A54312}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_03-->
+	<SceneryObject groupIndex="25" lat="22.19084245463373" lon="112.30475237003357" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D6B60B3F-19DD-4A13-8A27-E696C8A54312}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_03-->
+	<SceneryObject groupIndex="24" lat="22.19088588772206" lon="112.30472626350878" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D6B60B3F-19DD-4A13-8A27-E696C8A54312}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_03-->
+	<SceneryObject groupIndex="23" lat="22.19092224984988" lon="112.30468774437188" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D6B60B3F-19DD-4A13-8A27-E696C8A54312}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_03-->
+	<SceneryObject groupIndex="31" lat="22.19117419549102" lon="112.30573812240284" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D6B60B3F-19DD-4A13-8A27-E696C8A54312}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: GAYA_PineTree_03-->
+	<SceneryObject groupIndex="30" lat="22.19125445467896" lon="112.30568972107352" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D6B60B3F-19DD-4A13-8A27-E696C8A54312}" scale="1.000000"/>
+	</SceneryObject>
+</FSData>
+
